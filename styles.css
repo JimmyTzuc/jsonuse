@@ -1,0 +1,12 @@
+.milestone {
+    border: 1px solid red;
+    padding: 10px;
+    margin-bottom: 10px;
+  }
+  .milestone h3 {
+    margin-top: 0;
+  }
+.milestone .step-info{
+    border:1px yellow solid;
+}
+  
